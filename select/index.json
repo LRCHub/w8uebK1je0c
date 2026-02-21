@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ワンダー",
+  "base_artist": "tayori",
+  "createdAt": "2026-02-21T07:19:53.066852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワンダー",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_ワンダー_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/02_センスレス・ワンダー_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワンダー",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/03_ワンダー_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワンダー・ランド",
+      "artist": "EPO",
+      "has_synced": false,
+      "path": "select/04_ワンダー・ランド_EPO.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/05_センスレス・ワンダー_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/06_センスレス・ワンダー_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー [ReREC]",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/07_センスレス・ワンダー_[ReREC]_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー[Original Rec 2024 Mix]",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/08_センスレス・ワンダー[Original_Rec_2024_Mix]_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー[ReREC]",
+      "artist": "HITORIE",
+      "has_synced": true,
+      "path": "select/09_センスレス・ワンダー[ReREC]_HITORIE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "センス・オブ・ワンダー",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/10_センス・オブ・ワンダー_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ワンダー・スターター",
+      "artist": "TINGS",
+      "has_synced": true,
+      "path": "select/11_ワンダー・スターター_TINGS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/12_センスレス・ワンダー_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ワンダー",
+      "artist": "Soraru",
+      "has_synced": false,
+      "path": "select/13_ワンダー_Soraru.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "扇子・オブ・ワンダー☆",
+      "artist": "澁若山",
+      "has_synced": false,
+      "path": "select/14_扇子・オブ・ワンダー☆_澁若山.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ワンダー☆フューチャー",
+      "artist": "キタコレ(cv.小野大輔、岸尾だいすけ)",
+      "has_synced": false,
+      "path": "select/15_ワンダー☆フューチャー_キタコレ(cv.小野大輔、岸尾だいすけ).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/16_センスレス・ワンダー_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー (2016.4.29 LIVE at STUDIO COAST)",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/17_センスレス・ワンダー_(2016.4.29_LIVE_at_STUDIO_COAST)_ヒトリエ.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ワンダー☆ウインター☆ヤッター!!",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/18_ワンダー☆ウインター☆ヤッター!!_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワンダー",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_ワンダー_tayori.txt"
+    }
+  ]
+}
